@@ -3,3 +3,27 @@ MODIFY id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
 DROP COLUMN my_row_id,
 ADD PRIMARY KEY (id);
 
+
+
+
+
+website_pages
+website_content_blocks
+website_news
+website_events
+website_programs
+website_courses
+website_personnel
+website_publications
+website_student_groups
+website_research_groups
+website_mass_schedules
+website_faqs
+website_a_z_entries
+website_roles
+website_permissions
+website_role_permissions
+website_staff_roles
+cache
+cache_locks
+migrations
